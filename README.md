@@ -2,7 +2,7 @@
 
 <p align="center">
 Programa exclusivo e gratuito, promovido pela ONE em parceria com a Alura. <br/>
-<a href="https:">Teste meu projeto clicando aqui.</a>
+<a href="https://andrei0rocha.github.io/challenge-amigo-secreto/">Teste meu projeto clicando aqui.</a>
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias e plataformas:
 
 Este projeto é uma aplicação simples para realizar o sorteio de nomes de amigos. O usuário pode adicionar os nomes dos amigos e, em seguida, fazer o sorteio de um amigo de forma aleatória.
 
-- [Acesse o projeto finalizado, online](https://)
+- [Acesse o projeto finalizado, online](https://andrei0rocha.github.io/challenge-amigo-secreto/)
 
 - [Acesse o projeto finalizado, localmente]
     
